@@ -42,3 +42,35 @@
 14:59:43 ERROR : Hardware specification file doesn't exist at the specified location 'C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf'
 14:59:43 ERROR : Unable to create Hardware Specification Project with specification file: C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf
 14:59:45 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:26:16 INFO  : Restoring local repository preferences: 
+		 .\design_top_level_wrapper_hw_platform_0
+15:26:17 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+15:26:17 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+15:26:18 INFO  : Processing command line option -hwspec C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf.
+15:26:18 ERROR : Hardware specification file doesn't exist at the specified location 'C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf'
+15:26:18 ERROR : Unable to create Hardware Specification Project with specification file: C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf
+15:26:20 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:27:23 INFO  : Restoring local repository preferences: 
+		 .\design_top_level_wrapper_hw_platform_0
+15:27:23 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+15:27:24 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+15:27:24 INFO  : Processing command line option -hwspec C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf.
+15:27:24 ERROR : Hardware specification file doesn't exist at the specified location 'C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf'
+15:27:24 ERROR : Unable to create Hardware Specification Project with specification file: C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf
+15:27:26 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+15:59:03 INFO  : Restoring local repository preferences: 
+		 .\design_top_level_wrapper_hw_platform_0
+15:59:04 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+15:59:04 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+15:59:04 INFO  : Processing command line option -hwspec C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf.
+15:59:04 ERROR : Hardware specification file doesn't exist at the specified location 'C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf'
+15:59:04 ERROR : Unable to create Hardware Specification Project with specification file: C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf
+15:59:06 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450
+16:00:08 INFO  : Restoring local repository preferences: 
+		 .\design_top_level_wrapper_hw_platform_0
+16:00:08 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+16:00:09 WARN  :  [Hsi 55-1607] Software Repository Paths c:/DevGIT/TestJunk/DNA2_FGPA_V1.29b35/ip_repo/master_controller_1.03 and C:/DevGIT/SDK_test/design_top_level_wrapper_hw_platform_0/../../../../../ip_repo/master_controller_1.03 do not exist or not accessible
+16:00:09 INFO  : Processing command line option -hwspec C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf.
+16:00:09 ERROR : Hardware specification file doesn't exist at the specified location 'C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf'
+16:00:09 ERROR : Unable to create Hardware Specification Project with specification file: C:/DevGIT/TestJunk/DNA2_FGPA_V1.29b136/DNA2_ZYNQ.sdk/design_top_level_wrapper.hdf
+16:00:11 INFO  : Launching XSDB server: xsdb.bat -s C:/Xilinx/SDK/2014.4/scripts/xsdb/xsdb/xsdb-server.tcl 2450

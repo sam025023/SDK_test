@@ -1,4 +1,4 @@
-14:39:56 **** Build of configuration Debug for project testFreeRTOSApp ****
+15:59:33 **** Build of configuration Debug for project testFreeRTOSApp ****
 make all 
 'Building file: ../src/freertos_hello_world.c'
 'Invoking: ARM gcc compiler'
@@ -17,5 +17,5 @@ arm-xilinx-eabi-size testFreeRTOSApp.elf  |tee "testFreeRTOSApp.elf.size"
 'Finished building: testFreeRTOSApp.elf.size'
 ' '
 
-14:39:57 Build Finished (took 518ms)
+15:59:34 Build Finished (took 528ms)
 
