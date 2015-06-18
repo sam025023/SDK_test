@@ -1,0 +1,10 @@
+#-----------------------------------------------------------
+# Webtalk v2014.4 (64-bit)
+# SW Build 1071353 on Tue Nov 18 17:18:21 MST 2014
+# 
+# Start of session at: Tue Mar 24 17:28:07 2015
+# Process ID: 6012
+# Log file: C:/DevGIT/SDK_test/webtalk/webtalk.log
+# Journal file: C:/DevGIT/SDK_test/webtalk\webtalk.jou
+#-----------------------------------------------------------
+source sdk_webtalk.tcl
